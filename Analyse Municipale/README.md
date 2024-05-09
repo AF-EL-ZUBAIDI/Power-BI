@@ -51,7 +51,7 @@ Chaque fiche contient les colonnes suivantes :
      - `Ville`
 
 ## Résultat Final
-![Analyse Municipale](image.png)
+![Analyse Municipale](images/Analyse_municipale.png)
 
 ### Auteur
 Abdul Fattah EL ZUBAIDI
