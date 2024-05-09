@@ -41,10 +41,8 @@ Chaque table contient les colonnes suivantes :
      - `Annee` (Année)
 
 ## Résultat Final
-![Graphique Linéaire](image.png)
+![Graphique Linéaire](images/Graphique_lineaire.png)
 
 ### Auteur
-[Votre Nom]
+Abdul Fattah EL ZUBAIDI
 
-### Liens
-- [Profil GitHub](https://github.com/nom-utilisateur)
